@@ -1,0 +1,3 @@
+Regular Polygon Area Calculator
+
+This project involves a C program that calculates and displays the area of a regular polygon given the number of sides and the length of each side. The area() function uses the formula for the area of a regular polygon and returns the result. The main method demonstrates the usage of the function and displays the computed area of the polygon. This project showcases basic mathematical calculations and function usage in C.

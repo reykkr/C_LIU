@@ -1,0 +1,3 @@
+Interprocess Communication using Pipes in C
+
+Interprocess communication using pipes in C programming. It covers the creation of pipes, which provide a means for communication between two related processes. Readers will learn how to establish a unidirectional communication channel, allowing data to flow from one process (the writer) to another (the reader). Practical code examples demonstrate how to create pipes, write data to them, and read data from them, providing a clear understanding of this essential mechanism for data exchange between processes.

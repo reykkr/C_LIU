@@ -1,0 +1,3 @@
+Dynamic Memory Allocation in C: Using malloc, calloc, and realloc
+
+Memory management using functions like malloc, calloc, and realloc. It explains how to allocate memory at runtime and how to deallocate it when it's no longer needed. Through code examples, readers will understand the differences between these memory allocation functions and when to use each one. The tutorial also covers potential memory-related issues and best practices to ensure efficient memory utilization in C programs.

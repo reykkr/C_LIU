@@ -1,0 +1,3 @@
+Prime Number Filtering from Integer Array
+
+This project involves creating a C program that generates an integer array of size 10 with predetermined values. The program then identifies prime numbers from the original array, extracts them, and stores them in a new array. The result is an original array devoid of prime numbers, showcasing a practical approach to data filtering and manipulation. This project underscores array handling and prime number identification in a programming context.

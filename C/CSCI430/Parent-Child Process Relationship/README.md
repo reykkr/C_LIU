@@ -1,0 +1,3 @@
+Exploring Parent-Child Process Relationship in C Programming
+
+This project explores the concept of process creation in C programming using the fork() system call. Through a simple program, the project demonstrates how a parent process generates a child process and explains the relationship between them. The program showcases the utilization of process IDs and highlights the concurrent execution of parent and child processes.

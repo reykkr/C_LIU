@@ -1,0 +1,3 @@
+Removing Duplicate Values from an Integer Array
+
+This project involves creating an integer array of size 10 and filling it with positive numbers set by the programmer. The program then removes duplicate values from the array, resulting in a new array with only unique values. The code demonstrates a basic method for removing duplicates from an array and showcases how to manage arrays and modify their size in C.

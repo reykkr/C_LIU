@@ -1,0 +1,3 @@
+Triangle Validation and Area Calculation
+
+This project involves the implementation of methods to validate whether a set of three sides forms a valid triangle and calculate its area. The isValid method checks whether the sum of any two sides is greater than the third side, while the area method calculates the area of the triangle using the provided sides. A test program is included to input side lengths, validate if they form a triangle, and if valid, compute and display the triangle's area using the area formula. This project showcases fundamental geometric calculations and input validation in C.

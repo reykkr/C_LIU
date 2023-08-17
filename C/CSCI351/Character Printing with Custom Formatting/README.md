@@ -1,0 +1,3 @@
+Character Printing with Custom Formatting
+
+This project involves a C program that includes a method, printChars, which takes two characters and a number of characters per line as input. The method prints the characters in the specified range with the specified number of characters per line. The test program in the project demonstrates the functionality by printing characters from '1' to 'Z', arranging them in lines of ten characters each, with a single space between characters. This project showcases how to control the formatting and organization of character output in a customizable manner.

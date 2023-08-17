@@ -1,0 +1,3 @@
+Odd and Even Array Segregation
+
+This project involves creating an integer array of size 10 and initializing it with predefined numbers. The program then segregates the original array into two separate arrays, one containing even values and the other containing odd values. The sizes of these new arrays are determined by the counts of even and odd values in the original array. This demonstrates how to categorize and store elements based on their parity within a fixed-size array.

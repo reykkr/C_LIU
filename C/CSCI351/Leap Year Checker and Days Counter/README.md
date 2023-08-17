@@ -1,0 +1,3 @@
+Leap Year Checker and Days Counter
+
+This project consists of a C program that includes two functions to determine whether a year is a leap year and to calculate the number of days in a year. It also includes a test program that displays the number of days in years from 2000 to 2023, showcasing the differentiation between leap years (with 366 days) and non-leap years (with 365 days). The project demonstrates the calculation of days in a year, considering the leap year rule.
