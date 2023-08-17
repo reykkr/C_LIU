@@ -1,0 +1,3 @@
+Balloons Shooter Game
+
+"Embark on a fun adventure with the 'Balloons Shooter Game.' Immerse yourself in a world of colorful balloons and quick reflexes. Armed with a bow and arrow, your goal is to shoot down as many balloons as you can before they reach the top of the screen. With dynamic arrow movement, balloons that defy gravity, and a spawner creating a challenging experience, this game promises excitement and endless enjoyment."
