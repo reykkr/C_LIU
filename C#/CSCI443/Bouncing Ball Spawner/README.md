@@ -1,0 +1,3 @@
+Bouncing Ball Spawner
+
+This Unity project focuses on creating an interactive environment where a ball spawns and bounces within a 2D scene. The user controls the ball's jumping using the space bar, and collisions with the ground trigger a sound effect. A ball spawner generates up to 80 balls based on mouse clicks, each exhibiting gravity-based movement and bounce dynamics. The project emphasizes user interaction, physics simulation, and sound integration to provide an engaging experience.
