@@ -1,0 +1,3 @@
+ Cosmic Guardian: Space Shooter Game
+ 
+ "Embark on an exciting interstellar adventure in 'Cosmic Guardian,' a thrilling 2D space shooter game. As the pilot of a powerful jet, your mission is to defend the galaxy from a relentless onslaught of meteors. Use your skillful control to dodge meteor showers while collecting powerful bombs. Blast meteors into oblivion with strategic bomb explosions, all while striving to maintain your jet's health. Will you emerge as the Cosmic Guardian and save the universe from destruction? Engage in intense battles, master precision movements, and experience explosive audio and visual effects in this epic space shooter game."
