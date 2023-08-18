@@ -1,0 +1,3 @@
+Desert Quest: Spider's Journey
+
+"Embark on an adventurous journey in 'Desert Quest: Spider's Journey.' Guide the spider through the desert, collecting butterflies to score points. Use arrow keys to navigate, and watch out for butterflies. As the spider feasts on butterflies, your score increases. Immerse yourself in this engaging 2D game with a dynamic world, interactive gameplay, and captivating UI elements."
